@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @s-alon-i
 - 🔭 I am Currently a sophomore  at Govind Ballabh Pant Institute of Engineering & Technology, Ghurdauri  🦢
-🌱 I’m currently Learning Quantum Machine learning, artificial intelligence & Web-Development😎.
+🌱 I’m currently Learning Artificial intelligence,Machine Learning & Web-Development😎.
 
-🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, 
+🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, 
 Audio Deep learning, Machine learning, artificial intelligence & Web-Development 
 
 
